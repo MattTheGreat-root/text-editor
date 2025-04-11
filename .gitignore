@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
-.iml
+*.iml
 .idea/
 out/
 !**/src/main/**/out/
